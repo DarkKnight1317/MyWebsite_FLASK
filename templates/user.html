@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+{% extends "base.html" %}
+{%block title%}USER(latest version INDIA MADE){%endblock%}
+
+{% block content %}
+        {% with messages = get_flashed_messages() %}
+        {%if messages%}
+            {%for mes in messages %}
+                <p>{{mes}}</p>
+            {% endfor %}
+        {% endif %}
+    {%endwith%}
+    <p>Welcome, {{user}}</p>
+{%endblock%}
