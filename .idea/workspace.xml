@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be8c6a-143c-4442-a093-a58e28678ab1" name="Default Changelist" comment="" />
+    <list default="true" id="92be8c6a-143c-4442-a093-a58e28678ab1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.py" beforeDir="false" afterPath="$PROJECT_DIR$/head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eDn6A7IhwDidknBxMssnBY52Gr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,22 +84,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593868350378" />
-    <state width="619" height="163" key="GridCell.Tab.0.bottom" timestamp="1593881801280">
+    <state width="619" height="163" key="GridCell.Tab.0.bottom" timestamp="1593886947909">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="619" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593881801280" />
-    <state width="619" height="163" key="GridCell.Tab.0.center" timestamp="1593881801280">
+    <state width="619" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593886947909" />
+    <state width="619" height="163" key="GridCell.Tab.0.center" timestamp="1593886947909">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="619" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593881801280" />
-    <state width="619" height="163" key="GridCell.Tab.0.left" timestamp="1593881801280">
+    <state width="619" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593886947909" />
+    <state width="619" height="163" key="GridCell.Tab.0.left" timestamp="1593886947909">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="619" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593881801280" />
-    <state width="619" height="163" key="GridCell.Tab.0.right" timestamp="1593881801280">
+    <state width="619" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593886947909" />
+    <state width="619" height="163" key="GridCell.Tab.0.right" timestamp="1593886947909">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="619" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593881801280" />
+    <state width="619" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593886947909" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1593925002249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593925002249" />
     <state x="-17" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593882263757">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
