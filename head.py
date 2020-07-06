@@ -1,6 +1,5 @@
 from flask import Flask, redirect, url_for, render_template, request, session, flash
 from datetime import timedelta
-from flask_sqlalchemy import SQLAlchemy
 import time
 
 
@@ -44,17 +43,19 @@ def logout():
 def user():
     email = None
     if "user" in session:
-        user = session["user"]
+        usr = session["user"]
         if request.method == "POST":
             email = request.form["email"]
             session["email"] = email
+            flash("Your email is in session now.")
+            return render_template("view.html", email=email, name=usr)
         else:
             if "email" in session:
                 email = session["email"]
 
         return render_template("user.html", email=email)
     else:
-        flash("You are not logged in.")
+        flash("You are not logged in.  Please login to continue")
         return redirect(url_for("login"))
 
 
